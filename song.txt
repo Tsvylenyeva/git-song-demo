@@ -17,3 +17,5 @@
 От би зараз діда постукать би по плечі
 
 first feature commit
+
+second feature commit
